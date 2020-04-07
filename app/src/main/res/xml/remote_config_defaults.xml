@@ -1,0 +1,22 @@
+<defaultsMap>
+    <entry>
+        <key>sign_in_failed_attempts_limit</key>
+        <value>5</value>
+    </entry>
+    <entry>
+        <key>sign_in_attempts_disabled_duration</key>
+        <value>5</value>
+    </entry>
+    <entry>
+        <key>password_minimum_length</key>
+        <value>6</value>
+    </entry>
+    <entry>
+        <key>interest_list</key>
+        <value>Buco-Macilo,Crânio,Coluna,Cardio,Ortodontista,Ortopédica,Oftalmo</value>
+    </entry>
+    <entry>
+        <key>type_list</key>
+        <value>Doutor,Paciente,Distribuidor</value>
+    </entry>
+</defaultsMap>

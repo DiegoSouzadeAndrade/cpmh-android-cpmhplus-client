@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="auth_shared_preferences">auth_preferences_file</string>
+    <string name="sign_in_failed_attempts_count">sign_in_failed_attempts_count</string>
+    <string name="sign_in_failed_attempts_limit">sign_in_failed_attempts_limit</string>
+    <string name="sign_in_attempts_disabled_date">sign_in_attempts_disabled_date</string>
+    <string name="sign_in_attempts_disabled_duration">sign_in_attempts_disabled_duration</string>
+    <string name="sign_in_attempts_disabled_timer">sign_in_attempts_disabled_timer</string>
+
+    <string name="password_minimum_length">password_minimum_length</string>
+
+    <string name="stored_email">stored_email</string>
+    <string name="stored_password">stored_password</string>
+
+    <string name="algorithm_cipher">AES</string>
+    <string name="algorithm_message_digest">SHA-256</string>
+
+    <string name="secret_key_password">PASSWORD_HERE</string>
+    <string name="secret_key_password_charset">UTF-8</string>
+</resources>
